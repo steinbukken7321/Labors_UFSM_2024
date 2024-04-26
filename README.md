@@ -1,7 +1,8 @@
 
-# UFSM - 2024 - BRAZIL
+# UFSM - BRAZIL
 
-<code style="color : red">Created by Rafael Ziani de Carvalho 🦕</code>
+## <code style="color : gray">Created by Rafael Ziani de Carvalho 🖊️</code>
+------------------
 
 ## Working in C and matlab with complex numbers
 
@@ -51,12 +52,13 @@ This repository contains C implementations for performing operations with comple
 
 Make sure you have a C compiler installed on your machine to compile the code in addition to matlab.
 
----
-# Languages ​​and tools used
-![C](https://img.shields.io/badge/C-F1C40F?style=for-the-badge&logo=c&logoColor=000000)
-![Git](https://img.shields.io/badge/GIT-239B56?style=for-the-badge&logo=git&logoColor=000000)
+-----------------
 
-[![Generic badge](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)](https://shields.io/)
+## Languages ​​and tools used
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg)
 
 
 # Contacts
